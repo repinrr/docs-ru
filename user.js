@@ -9,7 +9,7 @@ $DOC.sections['fixed-top-bar'] =
  * [Формат файлов]({{=$DOC.root}}формат-файлов)\n\
  * [FAQ]({{=$DOC.root}}faq)\n\
 )%navbar';
-
+ 
 $DOC.sections['header-panel'] =
 '# Markdown webdocs\n\
 Система подготовки веб-справки и документации  \n\
